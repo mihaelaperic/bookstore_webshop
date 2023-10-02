@@ -1,0 +1,7 @@
+for user:
+username: user1
+password: 123456
+
+for admin:
+username: admin
+password: 123456
